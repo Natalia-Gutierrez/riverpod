@@ -9,6 +9,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  riverpod: ^1.0.3
+  flutter_bloc: ^7.0.1
+  http: ^0.13.5
+  flutter_riverpod: ^1.0.3+3
 
 dev_dependencies:
   flutter_test:
